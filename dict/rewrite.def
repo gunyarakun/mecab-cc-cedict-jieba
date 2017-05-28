@@ -1,0 +1,9 @@
+[unigram rewrite]
+# pinyin only
+* $1
+
+[left rewrite]
+* $1
+
+[right rewrite]
+* $1
