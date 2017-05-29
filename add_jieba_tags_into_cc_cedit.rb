@@ -26,6 +26,6 @@ open('sources/cedict_ts.u8') do |f|
     puts "Line #{line_no}: Cannot find jieba tag for #{m[2]}" unless tag
     tag ||= '*'
 
-    seed_dict_f.puts("#{m[2]},0,0,0,#{m[3]}")
+    seed_dict_f.puts("#{m[2]},0,0,0,#{tag},#{m[3]}")
   end
 end
