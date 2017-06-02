@@ -20,8 +20,8 @@ ref.) https://gist.github.com/luw2007/6016931
 - k: 后接成分
 - l: 习用语
 - m: 数词
-  - mg:
-  - mq:
+  - mg: "巳", "寅"
+  - mq: ???
 - n: 名词
   - ng: 名词性语素
   - nr: 人名
